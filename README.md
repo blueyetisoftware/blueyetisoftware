@@ -5,22 +5,22 @@ Welcome! BlueYeti Software develops **open source** and **commercial software** 
 - 🔌 Device drivers
 - 🤖 Automation
 
-## Support Our Work
+## Support My Work
 
-If you find our projects useful, consider supporting us:
+If you find my projects useful, consider supporting me:
 
 <p align="center">
   <a href="https://github.com/sponsors/blueyetisoftware">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?style=for-the-badge&logo=githubsponsors" alt="GitHub Sponsors" />
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="GitHub Sponsors" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.buymeacoffee.com/blueyetisoftware">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Us-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building quality software, one commit at a time.</i>
+  <i>We Make Cool $#*%!</i>
 </p>
