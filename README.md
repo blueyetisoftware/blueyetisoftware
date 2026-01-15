@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header.png" alt="BlueYeti Software - We Make Cool $#*%!" style="width: 100%; max-width: 1200px;">
+  <img src="https://github.com/user-attachments/assets/89590f05-6aaa-4748-a715-79d40b097d70" alt="BlueYeti Software - We Make Cool $#*%!" style="width: 100%; max-width: 1200px;">
 
   <br><br>
 
