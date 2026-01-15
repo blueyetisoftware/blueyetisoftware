@@ -9,7 +9,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sponsors/blueyetisoftware">
-    <img src="https://img.shields.io/badge/Sponsor-FFDD00?style=for-the-badge&logo=GitHub-Sponsors&logoColor=black&labelColor=FFDD00" alt="GitHub Sponsors" height="60">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="GitHub Sponsors" height="60">
   </a>
 
 </div>
