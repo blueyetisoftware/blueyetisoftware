@@ -1,16 +1,26 @@
-## Hi there 👋
+# BlueYeti Software 🐾
 
-<!--
-**blueyetisoftware/blueyetisoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! BlueYeti Software develops **open source** and **commercial software** for:
+- 📱 Mobile apps
+- 🔌 Device drivers
+- 🤖 Automation
 
-Here are some ideas to get you started:
+## Support Our Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you find our projects useful, consider supporting us:
+
+<p align="center">
+  <a href="https://github.com/sponsors/blueyetisoftware">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-pink?style=for-the-badge&logo=githubsponsors" alt="GitHub Sponsors" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/blueyetisoftware">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Us-yellow?style=for-the-badge&logo=buymeacoffee" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building quality software, one commit at a time.</i>
+</p>
